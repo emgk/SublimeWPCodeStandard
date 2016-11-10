@@ -12,7 +12,7 @@ $ sudo apt-get install wget
 
 ### 2. Install PHP_Codesniffer
 
-We're using PEAR, so you can install PHP_CodeSniffer using the PEAR installer. This will make the phpcs and phpcbf commands immediately available for use. To install PHP_CodeSniffer using the PEAR installer, first ensure you have installed PEAR and then run the following command:
+We're using PEAR, so we can install PHP_CodeSniffer using the PEAR installer. This will make the phpcs and phpcbf commands immediately available for use. To install PHP_CodeSniffer using the PEAR installer, first ensure you have installed PEAR and then run the following command:
 
 
 - install PHP_CodeSniffer
